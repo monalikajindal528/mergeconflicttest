@@ -1,0 +1,2 @@
+# mergeconflicttest
+conflicts
